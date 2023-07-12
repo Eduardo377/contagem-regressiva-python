@@ -37,12 +37,37 @@ Este repositório contém um programa em Python que realiza uma contagem regress
 
 Sinta-se à vontade para utilizar este código como referência ou adaptá-lo para suas próprias necessidades. Divirta-se!
 
+
+<table>
+  <tr>
+    <th>
+<details>
+
+<summary>
+    
+
 ##### SCRENSHORT RESPOSTA COM FOR:
 
 <img style="margin: 10px" src="./assets/image-for.png" alt="print do código com for" />
+</summary>
+
+</details>
+    </th>
+  </tr>
+  <tr>
+    <td>
+    
+<details>
+
+<summary>
 
 ##### SCRENSHORT RESPOSTA COM WHILE:
 
 <img style="margin: 10px" src="./assets/image-while.png" alt="print do código com while" />
+</summary>
+
+</details>
+    </td>
+  </tr>
 
 Clique em 👉 [Google Colabory](https://colab.research.google.com/drive/1_p_-ZLx77LXEkmqX-9l1GzYtUOdXwFRI?usp=sharing) 👈 para acessar o exercutavel online.
