@@ -26,9 +26,13 @@ Este repositório contém um programa em Python que realiza uma contagem regress
 - Cria uma experiência realista ao simular o tempo passando em segundos.
 
 ##### INSTRUÇÕES DE USO:
+
 (1) -`Execute o programa em um ambiente Python.`
+
 (2) -`Digite o número de segundos para a contagem regressiva.`
+
 (3) -`Observe a contagem regressiva em andamento, com uma pausa de 1 segundo entre cada número.`
+
 (4) -`Ao final da contagem, a mensagem "BUM!" será exibida.`
 
 Sinta-se à vontade para utilizar este código como referência ou adaptá-lo para suas próprias necessidades. Divirta-se!
