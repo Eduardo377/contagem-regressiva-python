@@ -46,7 +46,7 @@ Sinta-se à vontade para utilizar este código como referência ou adaptá-lo pa
 <summary>
     
 
-##### SCRENSHORT RESPOSTA COM FOR:
+##### SCREENSHOT RESPOSTA COM FOR:
 
 <img style="margin: 10px" src="./assets/image-for.png" alt="print do código com for" />
 </summary>
@@ -61,7 +61,7 @@ Sinta-se à vontade para utilizar este código como referência ou adaptá-lo pa
 
 <summary>
 
-##### SCRENSHORT RESPOSTA COM WHILE:
+##### SCREENSHOT RESPOSTA COM WHILE:
 
 <img style="margin: 10px" src="./assets/image-while.png" alt="print do código com while" />
 </summary>
