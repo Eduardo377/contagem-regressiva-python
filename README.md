@@ -40,31 +40,20 @@ Sinta-se à vontade para utilizar este código como referência ou adaptá-lo pa
 Clique em 👉 [Google Colabory](https://colab.research.google.com/drive/1_p_-ZLx77LXEkmqX-9l1GzYtUOdXwFRI?usp=sharing) 👈 para acessar o exercutavel online.
 
 
-
 <table>
   <tr>
     <th>SCREENSHOT RESPOSTA COM FOR</th>
     <th>SCREENSHOT RESPOSTA COM WHILE</th>
   </tr>
-  
   <tr>
     <td>
-    
-    <img style="margin: 10px" src="./assets/image-for.png" alt="print do código com for" height="50" />
-
+        <p style="display: flex; align-items: flex-start; justify-content: center; flex-wrap: wrap; gap: 10px;">
+            <img src="./assets/image-for.png" width="800px">
+        </p>
     </td>
     <td>
-    
-    <img style="margin: 10px" src="./assets/image-while.png" alt="print do código com while" />
-
+        <p style="display: flex; align-items: flex-start; justify-content: center; flex-wrap: wrap; gap: 10px;">
+            <img src="./assets/image-while.png" width="800px">
+        </p>
     </td>
   </tr>
-
-##### SCREENSHOT RESPOSTA COM FOR:
-
-<img style="margin: 10px" src="./assets/image-for.png" alt="print do código com for" />
-
-##### SCREENSHOT RESPOSTA COM WHILE:
-
-<img style="margin: 10px" src="./assets/image-while.png" alt="print do código com while" />
-
